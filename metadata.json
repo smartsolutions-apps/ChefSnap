@@ -1,0 +1,8 @@
+{
+  "name": "ChefSnap",
+  "description": "A smart culinary assistant that analyzes your fridge content to suggest personalized recipes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
